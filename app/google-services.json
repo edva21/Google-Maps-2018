@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28860320170",
+    "firebase_url": "https://cashier-database.firebaseio.com",
+    "project_id": "cashier-database",
+    "storage_bucket": "cashier-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28860320170:android:a1d1ce9b8c3681aa",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28860320170-du3n9a822r86cq51303jhbv04505ub0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijeMeQ_CNfqsw8ZNHJlfFCFBF1jG6syw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28860320170-du3n9a822r86cq51303jhbv04505ub0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
